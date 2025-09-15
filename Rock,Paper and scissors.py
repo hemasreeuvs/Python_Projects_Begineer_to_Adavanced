@@ -44,7 +44,7 @@
     else:
         print("Invalid choice. Please choose 'rock', 'paper', or 'scissors'.")
 
-# --- Example Usage ---
+  
 
 print("Here is the Rock diagram:")
 display_choice('rock')
